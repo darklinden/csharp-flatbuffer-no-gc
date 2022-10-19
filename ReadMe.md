@@ -17,7 +17,7 @@
 ## Profiler
 
 * GC.Alloc of new builder(1), GrowFront multiple times.
-![TestNewBiulder](./ReadMe/TestNewBiulder.png)
+![TestNewBiulder](./ReadMe/TestNewBuilder.png)
 
 * GC.Alloc of use stored builder.
 ![TestStoreBuilder](./ReadMe/TestStoreBuilder.png)
